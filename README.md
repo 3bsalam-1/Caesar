@@ -1,3 +1,12 @@
 # Caesar_encryption_decryption
-Caesar encryption &amp; decryption algorithm\
-with matlab
+
+---
+
+<h3>
+Caesar encryption &amp; decryption algorithm
+</h3>
+<h4>Made with</h4> 
+
+- Matlab
+- Gui
+---
